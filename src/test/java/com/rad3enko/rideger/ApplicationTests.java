@@ -1,4 +1,4 @@
-package com.rad3enko.blank;
+package com.rad3enko.rideger;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

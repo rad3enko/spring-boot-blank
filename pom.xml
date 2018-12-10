@@ -9,11 +9,11 @@
         <relativePath/>
     </parent>
     <groupId>com.rad3enko</groupId>
-    <artifactId>blank</artifactId>
+    <artifactId>manage-riders</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>blank</name>
-    <description>Demo project for Spring Boot</description>
+    <name>manage-riders</name>
+    <description>Manage-riders</description>
 
     <properties>
         <java.version>1.8</java.version>

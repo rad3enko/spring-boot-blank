@@ -1,4 +1,4 @@
-package com.rad3enko.blank;
+package com.rad3enko.rideger;
 
 import com.whitesoft.util.CustomRunner;
 import org.springframework.boot.SpringApplication;
